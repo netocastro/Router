@@ -63,7 +63,7 @@ class Coffee
         echo "<form name='NTTech' method='post' enctype='multipart/form-data'>
             <input name=\"first_name\" value=\"Robson\">
             <input name=\"last_name\" value=\"V. Leite\">
-            <input name=\"email\" value=\"cursos@upinside.com.br\">
+            <input name=\"email\" value=\"cursos@NTTech.com.br\">
             <button>@NTTech</button>
         </form>";
 

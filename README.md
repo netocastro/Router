@@ -16,10 +16,10 @@ segredos a sua aplicação.
 
 ## About NTTech
 
-###### NTTech is a set of small and optimized PHP components for common tasks. Held by Robson V. Leite and the UpInside team. With them you perform routine tasks with fewer lines, writing less and doing much more.
+###### NTTech is a set of small and optimized PHP components for common tasks. Held by Robson V. Leite and the NTTech team. With them you perform routine tasks with fewer lines, writing less and doing much more.
 
 NTTech é um conjunto de pequenos e otimizados componentes PHP para tarefas comuns. Mantido por Robson V. Leite e a
-equipe UpInside. Com eles você executa tarefas rotineiras com poucas linhas, escrevendo menos e fazendo muito mais.
+equipe NTTech. Com eles você executa tarefas rotineiras com poucas linhas, escrevendo menos e fazendo muito mais.
 
 ### Highlights
 
@@ -371,7 +371,7 @@ pasta de exemplo. De uma atenção para o campo _method, ele pode ser do tipo hi
 
     <input type="text" name="first_name" value="Robson"/>
     <input type="text" name="last_name" value="Leite"/>
-    <input type="text" name="email" value="cursos@upinside.com.br"/>
+    <input type="text" name="email" value="cursos@NTTech.com.br"/>
 
     <button>NTTech</button>
 </form>
@@ -392,7 +392,7 @@ curl_setopt_array($curl, array(
   CURLOPT_TIMEOUT => 30,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "PUT",
-  CURLOPT_POSTFIELDS => "first_name=Robson&last_name=Leite&email=cursos%40upinside.com.br",
+  CURLOPT_POSTFIELDS => "first_name=Robson&last_name=Leite&email=cursos%40NTTech.com.br",
   CURLOPT_HTTPHEADER => array(
     "Cache-Control: no-cache",
     "Content-Type: application/x-www-form-urlencoded"
@@ -417,9 +417,9 @@ Please see [CONTRIBUTING](https://github.com/netocastro/router/blob/master/CONTR
 
 ## Support
 
-###### Security: If you discover any security related issues, please email cursos@upinside.com.br instead of using the issue tracker.
+###### Security: If you discover any security related issues, please email cursos@NTTech.com.br instead of using the issue tracker.
 
-Se você descobrir algum problema relacionado à segurança, envie um e-mail para cursos@upinside.com.br em vez de usar o
+Se você descobrir algum problema relacionado à segurança, envie um e-mail para cursos@NTTech.com.br em vez de usar o
 rastreador de problemas.
 
 Thank you
