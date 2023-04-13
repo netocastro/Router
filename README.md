@@ -35,7 +35,7 @@ equipe UpInside. Com eles você executa tarefas rotineiras com poucas linhas, es
 Router is available via Composer:
 
 ```bash
-"NTTech/router": "2.0.*"
+"nttech/router": "1.0.*"
 ```
 
 or run
@@ -413,7 +413,7 @@ if ($err) {
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/robsonvleite/router/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/netocastro/router/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -426,11 +426,11 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/robsonvleite) (Developer)
-- [UpInside Treinamentos](https://github.com/upinside) (Team)
-- [All Contributors](https://github.com/robsonvleite/router/contributors) (This Rock)
+- [Neto Castro](https://github.com/netocastro) (Developer)
+- [NTTech](https://github.com/nttech) (Team)
+- [All Contributors](https://github.com/netocastro/router/contributors) (This Rock)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/robsonvleite/router/blob/master/LICENSE) for more
+The MIT License (MIT). Please see [License File](https://github.com/netocastro/Router/blob/main/LICENSE) for more
 information.
