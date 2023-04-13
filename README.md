@@ -417,9 +417,9 @@ Please see [CONTRIBUTING](https://github.com/netocastro/router/blob/master/CONTR
 
 ## Support
 
-###### Security: If you discover any security related issues, please email cursos@NTTech.com.br instead of using the issue tracker.
+###### Security: If you discover any security related issues, please email neto@nttech.com.br instead of using the issue tracker.
 
-Se você descobrir algum problema relacionado à segurança, envie um e-mail para cursos@NTTech.com.br em vez de usar o
+Se você descobrir algum problema relacionado à segurança, envie um e-mail para neto@nttech.com.br em vez de usar o
 rastreador de problemas.
 
 Thank you
