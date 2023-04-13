@@ -3,7 +3,7 @@
 namespace NTTech\Router;
 
 /**
- * Class CoffeeCode Router
+ * Class NTTech Router
  *
  * @author Robson V. Leite <https://github.com/robsonvleite>
  * @package NTTech\Router

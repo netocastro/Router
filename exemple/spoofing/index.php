@@ -4,7 +4,7 @@ require dirname(__DIR__, 2) . "/vendor/autoload.php";
 
 use NTTech\Router\Router;
 
-define("BASE", "https://www.localhost/coffeecode/router/exemple/controller");
+define("BASE", "https://www.localhost/NTTech/router/exemple/controller");
 $router = new Router(BASE);
 
 /**
@@ -77,5 +77,5 @@ $router->dispatch();
     <input type="text" name="last_name" value="Leite"/>
     <input type="text" name="email" value="cursos@upinside.com.br"/>
 
-    <button>CoffeeCode</button>
+    <button>NTTech</button>
 </form>

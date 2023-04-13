@@ -3,7 +3,7 @@
 namespace NTTech\Router;
 
 /**
- * Class CoffeeCode Dispatch
+ * Class NTTech Dispatch
  *
  * @author Robson V. Leite <https://github.com/robsonvleite>
  * @package NTTech\Router

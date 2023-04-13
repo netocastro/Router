@@ -18,7 +18,7 @@ class Coffee
         $url = BASE;
         $rand = rand(44, 244);
 
-        echo "<h1>Router @CoffeeCode</h1>";
+        echo "<h1>Router @NTTech</h1>";
         echo "<p>Normal routes:</p>";
         echo "<nav>
             <a href='{$url}'>Home</a> | 
@@ -60,11 +60,11 @@ class Coffee
     {
         echo "<h3>", __METHOD__, "::", $_SERVER["REQUEST_METHOD"], "</h3><hr>";
 
-        echo "<form name='coffeecode' method='post' enctype='multipart/form-data'>
+        echo "<form name='NTTech' method='post' enctype='multipart/form-data'>
             <input name=\"first_name\" value=\"Robson\">
             <input name=\"last_name\" value=\"V. Leite\">
             <input name=\"email\" value=\"cursos@upinside.com.br\">
-            <button>@CoffeeCode</button>
+            <button>@NTTech</button>
         </form>";
 
         echo "<pre>", print_r($data, true), "</pre>";
