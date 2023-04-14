@@ -1,11 +1,11 @@
 # Router @NTTech
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@robsonvleite-blue.svg?style=flat-square)](https://www.instagram.com/netocastrox/)
+[![Maintainer](http://img.shields.io/badge/maintainer-@netocastro-blue.svg?style=flat-square)](https://www.instagram.com/netocastrox/)
 [![Source Code](http://img.shields.io/badge/source-NTTech/router-blue.svg?style=flat-square)](https://github.com/netocastro/router)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/NTTech/router.svg?style=flat-square)](https://packagist.org/packages/NTTech/router)
-[![Latest Version](https://img.shields.io/github/release/robsonvleite/router.svg?style=flat-square)](https://github.com/robsonvleite/router/releases)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/NTTech/router.svg?style=flat-square)](https://packagist.org/packages/nttech/router)
+[![Latest Version](https://img.shields.io/github/release/netocastro/router.svg?style=flat-square)](https://github.com/netocastro/router/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Quality Score](https://img.shields.io/scrutinizer/g/robsonvleite/router.svg?style=flat-square)](https://scrutinizer-ci.com/g/robsonvleite/router)
+[![Quality Score](https://img.shields.io/scrutinizer/g/netocastro/router.svg?style=flat-square)](https://scrutinizer-ci.com/g/netocastro/router)
 [![Total Downloads](https://img.shields.io/packagist/dt/NTTech/router.svg?style=flat-square)](https://packagist.org/packages/NTTech/router)
 
 ###### Small, simple and uncomplicated. The router is a PHP route components with abstraction for MVC. Prepared with RESTfull verbs (GET, POST, PUT, PATCH and DELETE), works on its own layer in isolation and can be integrated without secrets to your application.
@@ -16,9 +16,9 @@ segredos a sua aplicação.
 
 ## About NTTech
 
-###### NTTech is a set of small and optimized PHP components for common tasks. Held by Robson V. Leite and the NTTech team. With them you perform routine tasks with fewer lines, writing less and doing much more.
+###### NTTech is a set of small and optimized PHP components for common tasks. Held by Neto Castro and the NTTech team. With them you perform routine tasks with fewer lines, writing less and doing much more.
 
-NTTech é um conjunto de pequenos e otimizados componentes PHP para tarefas comuns. Mantido por Robson V. Leite e a
+NTTech é um conjunto de pequenos e otimizados componentes PHP para tarefas comuns. Mantido por Neto Castro e a
 equipe NTTech. Com eles você executa tarefas rotineiras com poucas linhas, escrevendo menos e fazendo muito mais.
 
 ### Highlights
@@ -41,7 +41,7 @@ Router is available via Composer:
 or run
 
 ```bash
-composer require NTTech/router
+composer require nttech/router
 ```
 
 ## Documentation

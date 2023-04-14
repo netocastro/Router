@@ -5,7 +5,7 @@ namespace NTTech\Router;
 /**
  * Class NTTech Dispatch
  *
- * @author Robson V. Leite <https://github.com/robsonvleite>
+ * @author Neto Castro <https://github.com/netocastro>
  * @package NTTech\Router
  */
 abstract class Dispatch

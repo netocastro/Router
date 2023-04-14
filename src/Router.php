@@ -5,7 +5,7 @@ namespace NTTech\Router;
 /**
  * Class NTTech Router
  *
- * @author Robson V. Leite <https://github.com/robsonvleite>
+ * @author Neto Castro <https://github.com/netocastro>
  * @package NTTech\Router
  */
 class Router extends Dispatch
